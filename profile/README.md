@@ -1,4 +1,4 @@
-# Welcome to our GitHub Profile!
+# Intechnity - Integrity in technology, innovation in solutions
 
 We are a team of passionate developers who specialize in building innovative software solutions that help businesses succeed in today's digital age. Our GitHub repositories showcase some of the projects we have worked on, ranging from web and mobile applications to back-end systems and APIs.
 
